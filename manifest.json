@@ -1,0 +1,10 @@
+{
+    "name": "Upcoming NYC Concerts",
+    "version": "1.0.0",
+    "description": "This is an extension to look up concerts coming to NYC",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upcoming NYC Concerts"
+              }
+}
